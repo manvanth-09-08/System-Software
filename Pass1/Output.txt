@@ -1,0 +1,9 @@
+1000       Copy       START 1000
+1000                  LDA Alpha
+1003                  LDX Beta
+1006       Alpha      RESW 2
+100c       Beta       RESW 1
+100f       Gamma      RESB 1
+1010       Delta      BYTE X'FF'
+1011       Charlie    BYTE C'EOF'
+1015                  END  

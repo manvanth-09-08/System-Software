@@ -1,0 +1,6 @@
+1000 Copy
+1006 Alpha
+100c Beta
+100f Gamma
+1010 Delta
+1011 Charlie

@@ -1,0 +1,9 @@
+Copy START 1000
+  LDA Alpha
+  LDX Beta
+Alpha RESW 2
+Beta RESW 1
+Gamma RESB 1
+Delta BYTE X'FF'
+Charlie BYTE C'EOF'
+  END
